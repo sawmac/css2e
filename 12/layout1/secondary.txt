@@ -1,0 +1,12 @@
+<h3>In the News</h3>
+<h4><a href="#">Breakthrough Technology Announced</a></h4>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut.</p>
+<h4><a href="#">CosmoFarmer Turns 6</a></h4>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna ali.</p>
+<h4><a href="#">Seattle Eases Restrictions on Apartment Hydroponics </a></h4>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna ali.</p>
+<h3>Around the Web </h3>
+<h4><a href="#">Compost Tips</a></h4>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>
+<h4><a href="#">Herban Tales</a></h4>
+<p>Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh.</p>

@@ -1,0 +1,124 @@
+/* reset css */
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, var, form, fieldset, blockquote {
+ padding: 0;
+ margin: 0;
+ font-size: 100%;
+ font-weight: normal;
+}
+table { border-collapse: collapse; border-spacing: 0; }
+td, th, caption { font-weight: normal; text-align: left; }
+img, fieldset { border: 0; }
+ol { padding-left: 1.4em; list-style: decimal; }
+ul { padding-left: 1.4em; list-style:square; }
+q:before, q:after { content:''; }
+/* end reset */
+
+
+body {
+  background-image: url(images/bg_page.png);
+  background-repeat:repeat-x;
+}
+
+
+#wrapper {
+	width: 960px;
+	margin-right: auto;
+	margin-left: auto;
+  overflow: hidden; /* contain float */
+  background-color: white; 
+  background-image: url(images/bg_main.jpg);
+  background-position: top left;
+  background-repeat: no-repeat;
+}
+
+#banner {
+  margin-top: 48px;
+}
+
+#main {
+	float: right;
+	width: 565px;
+	margin-right: 15px;
+	padding-top: 25px;
+}
+
+* html #main {
+  display:inline; /* ie 6 double margin bug */
+}
+#announcement {
+	margin-right: 600px;
+	margin-left: 20px;
+	background: url(images/scroll_middle.jpg) repeat-y center top;
+	margin-top: 115px;
+  zoom: 1;
+}
+
+#copyright {
+	clear: both;
+	font: bold 12px Tahoma, Geneva, sans-serif;
+	color: #65747E;
+	padding: 5px;
+  margin: 0 15px;
+	border: 1px dotted #98AFBE;
+  border-left: none;
+  border-right: none;
+}
+
+
+#banner h1 {
+	font: normal 48px Georgia, "Times New Roman", Times, serif;
+	text-align: right;
+  color: #272D32;
+}
+
+#main h2 {
+	font: 24px Tahoma, Geneva, sans-serif;
+	margin-bottom: 15px;
+	font-family: Tahoma, Geneva, sans-serif;
+  background-image: url(images/underline.png);
+  background-repeat: no-repeat;
+  background-position: left bottom;
+  padding-bottom: 7px;
+}
+
+#main p {
+	font: 14px Tahoma, Geneva, sans-serif;
+	color: #323A3F;
+	margin-bottom: 20px;
+	font-family: Tahoma, Geneva, sans-serif;
+}
+
+#announcement h2 {
+	font: italic bold normal 20px Georgia, "Times New Roman", Times, serif;
+	text-align: center;
+	color: #323A3F;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-bottom: 18px;
+  background: url(images/scroll_top.jpg) no-repeat center top;
+	padding-top: 70px;
+}
+
+#announcement ul {
+	font: 14px Tahoma, Geneva, sans-serif;
+}
+
+#announcement li {
+	list-style: none;
+  background-image: url(images/bullet.png);
+  background-repeat: no-repeat;
+  background-position: 0 4px;
+  padding-left: 25px; 
+  margin-bottom: 10px;
+	margin-left: 30px;
+	padding-right: 40px;
+}
+
+
+
+#announcement .last {
+	background: url(images/scroll_bottom.jpg) no-repeat center bottom;
+	padding-bottom: 65px;
+}
+
+

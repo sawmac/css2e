@@ -1,0 +1,34 @@
+/****************/
+/*LAYOUT STYLES*/
+/****************/
+/* box model hacks for IE 5.5 */
+#wrapper {
+	width: 761px;
+	w\idth: 760px;
+	overflow: hidden;
+}
+#home #main {
+	width: 588px;
+	w\idth: 577px;
+}
+/* display bug that pushes main content 6 px 
+below banner region */
+#nav {
+ height: 1px;
+ margin-bottom: -6px; /*removes space introduced by clearing <br>*/
+}
+/****************/
+/*ANNOUNCE SIDEBAR STYLES*/
+/****************/
+
+/* double-margin-bug */
+#announce {
+	height: 1px;
+}
+/* following hack makes entire area of link
+clickable in IE. This gives those links "layout" */
+#announce a {
+	height: 1px;
+}
+
+

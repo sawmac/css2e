@@ -1,0 +1,12 @@
+<ul id="news">
+	<li><a href="#"><span class="title">Virgo: It's Your Month</span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">Your Feedback </span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">This Month's Survey </span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">Indoor lawns: sod or seed? </span>Lorem ipsum dolor sit.</a></li>
+	<li><a href="#"><span class="title">Lorem Ipsum </span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">Dolor site amet </span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">Adipiscing elit </span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">Euismod tincidunt </span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">Dolor site amet </span>Lorem ipsum dolor site amet.</a></li>
+	<li><a href="#"><span class="title">Dolor site amet </span>Lorem ipsum dolor site amet.</a></li>
+</ul>

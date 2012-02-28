@@ -1,0 +1,29 @@
+/* reset browser styles */
+html, body, h1, h2, h3, h4, h5, h6, p, ol, ul, li, pre, code, address, var, form, fieldset, blockquote {
+ padding: 0;
+ margin: 0;
+ font-size: 100%;
+ font-weight: normal;
+}
+ol { 
+  margin-left: 1.4em; 
+  list-style: decimal; 
+}
+ul { 
+  margin-left: 1.4em; 
+  list-style:square; 
+}
+img {
+  border: 0;
+}
+/* end reset browser styles */
+
+#main {
+	float: left;
+	width: 580px;
+}
+#sidebar {
+	margin-left: 600px;
+	padding: 15px;
+	background: #E9F5FE;
+}
